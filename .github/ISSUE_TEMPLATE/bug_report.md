@@ -1,7 +1,8 @@
---
+---
 name: Báo lỗi
 about: Báo cáo lỗi của sản phẩm
-labels: bug--
+labels: bug
+---
 **Mô tả lỗi**
 **Các bước tái hiện**
 1.
